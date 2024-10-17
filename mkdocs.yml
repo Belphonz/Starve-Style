@@ -6,6 +6,14 @@ theme:
     favicon: assets/logo.png
     primary: cyan
     accent: teal
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Belphonz
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/AethelCrown
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/aethel-crown/
      
 
 # Extensions
