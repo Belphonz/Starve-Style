@@ -2,25 +2,10 @@ site_name: "Starve Style : A C++ Coding Guideline"
 site_url: https://belphonz.github.io/Starve-Style
 theme:
     name: 'material'
-    palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    logo: assets/logo.png
+    primary: cyan
+    accent: teal
+     
 
 # Extensions
 markdown_extensions:
@@ -52,13 +37,6 @@ plugins:
   - search
   - roamlinks
   - blog
-  - rss:
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
 
 extra_javascript:
   - javascripts/mathjax.js
