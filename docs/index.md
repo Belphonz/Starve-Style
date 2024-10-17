@@ -1,0 +1,1 @@
+# Starve Style : A C++ Coding Guideline 
