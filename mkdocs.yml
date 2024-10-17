@@ -6,6 +6,8 @@ theme:
     favicon: assets/logo.png
     primary: cyan
     accent: teal
+    features:
+      - navigation.footer
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -44,7 +46,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks
 
 extra_javascript:
   - javascripts/mathjax.js
