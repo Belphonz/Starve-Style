@@ -9,6 +9,7 @@ theme:
     features:
       - navigation.footer
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Belphonz
@@ -16,6 +17,8 @@ extra:
       link: https://x.com/AethelCrown
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/aethel-crown/
+extra_css:
+  - stylesheets/extra.css
      
 
 # Extensions
