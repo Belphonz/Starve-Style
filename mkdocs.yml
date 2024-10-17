@@ -1,4 +1,4 @@
-site_name: Starve Style 
+site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
