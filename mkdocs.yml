@@ -1,4 +1,4 @@
-site_name: Starve Style : A C++ Coding Guideline
+site_name: "Starve Style : A C++ Coding Guideline"
 
 theme:
     name: 'material'
