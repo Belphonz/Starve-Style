@@ -9,6 +9,11 @@ theme:
     accent: teal
     features:
       - navigation.footer
+      - navigation.path
+      - navigation.sections
+
+      - navigation.instant
+      - navigation.instant.progress
 extra:
   generator: false
   social:
@@ -20,8 +25,10 @@ extra:
       link: https://www.linkedin.com/in/aethel-crown/
 extra_css:
   - stylesheets/extra.css
-     
 
+markdown_extensions:
+  - toc:
+      toc_depth: 3     
 
 plugins:
   - search
