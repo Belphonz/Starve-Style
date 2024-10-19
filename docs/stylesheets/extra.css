@@ -18,3 +18,11 @@ body {
    color: white;
 }
 
+md-sidebar{
+    background:  rgb(26, 30, 36);
+}
+
+md-nav__title{
+    color: white; 
+}
+
