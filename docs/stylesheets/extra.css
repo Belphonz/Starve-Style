@@ -8,6 +8,12 @@
     color: rgb(201, 60, 60);
 }
 
-.md-typeset background-color {
-    color : rgb(26, 30, 36);  
+.md-typeset h2 {
+    font-weight: bold;
+    color: rgb(201, 60, 60);
+}
+
+.md-typeset body {
+    background-color : rgb(26, 30, 36);
+    color:white;  
 } 
