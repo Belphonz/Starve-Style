@@ -16,6 +16,7 @@
 body {
     --md-default-bg-color:  rgb(26, 30, 36);
     --md-default-fg-color:  white;
+    --md-default-fg-color--light: white;
    color: white;
 }
 
