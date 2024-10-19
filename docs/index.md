@@ -13,15 +13,19 @@ At the current time of writing, it is under my admission that I do not have a re
 It should be stated that major changes and overhauls are likely to be done for this project within the near future.
 This should be kept in mind not only for readers of this but also to myself within the future, no matter how annoying it may seem.
 
-### <u>Due to the aforementioned reasons the current format for the guideline will be :</u>
+#### <u>Due to the aforementioned reasons the current format for the guideline will be :</u>
 
 - **A topic per page**
 - Each Page discussing an aspect of C++ Syntax and the rules that should be followed 
 - The Reasons for the Guideline will be stated in prose rather than specific of being in sections this will overall be free flowing as to increase readability (This is Subject to Change)
 
-## <u>What is a Topic?</u>
+### <u>What is a Topic?</u>
 
-A Topic within this Guideline can be defined as a 
+**A Topic within this Guideline can be defined as a C++ Statement or series of statements which have been written with a singular intention.**
+
+These intentions generally already posses a term associated with them such as Instantiation or Assignment however others don't such as using an if statement to end a function early.
+
+
 
 
 
