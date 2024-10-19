@@ -21,5 +21,7 @@ This should be kept in mind not only for readers of this but also to myself with
 
 ## <u>What is a Topic?</u>
 
+A topic within this Guideline can be defined as
+
 
 
