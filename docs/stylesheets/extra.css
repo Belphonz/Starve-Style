@@ -1,9 +1,6 @@
 .md-typeset h1 {
     font-weight: bold;
     color: white;
-
-    background-color: blue;
-    background: blue;
 }
 
 .md-typeset h2 {
@@ -14,5 +11,10 @@
 .md-typeset h3 {
     font-weight: bold;
     color: rgb(201, 60, 60);
+}
+
+body {
+   background-color:  rgb(26, 30, 36);
+   background:  rgb(26, 30, 36);
 }
 
