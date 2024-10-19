@@ -14,15 +14,7 @@
 }
 
 body {
-   background:  rgb(26, 30, 36);
+    --md-default-bg-color:  rgb(26, 30, 36);
    color: white;
-}
-
-md-nav__list{
-    background:  rgb(26, 30, 36);
-}
-
-md-nav__title{
-    color: white; 
 }
 
