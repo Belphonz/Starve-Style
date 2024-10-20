@@ -40,7 +40,7 @@ With this in mind we can segment groups of rules into the environment you find t
 
 With all this in mind, I hope whoever finds this is able to read this to completion.  
 
-As of writing the Guideline is incomplete.   
+**As of writing the Guideline is incomplete.**  
 Even when it reaches a level where it's more to put together, I will most likely keep adding small experts here and there.
 
 Happy Reading !
