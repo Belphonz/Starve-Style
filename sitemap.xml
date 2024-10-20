@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://belphonz.github.io/Starve-Style/</loc>
+         <lastmod>2024-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://belphonz.github.io/Starve-Style/Class%20Scope/temp/</loc>
+         <lastmod>2024-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://belphonz.github.io/Starve-Style/Function%20Scope/temp/</loc>
+         <lastmod>2024-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://belphonz.github.io/Starve-Style/Global%20Scope/temp/</loc>
+         <lastmod>2024-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://belphonz.github.io/Starve-Style/Local%20Scope%20Within%20Main/temp/</loc>
+         <lastmod>2024-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://belphonz.github.io/Starve-Style/Scope%20in%20Flow%20Control/temp/</loc>
+         <lastmod>2024-10-20</lastmod>
+    </url>
+</urlset>
