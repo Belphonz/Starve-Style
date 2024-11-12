@@ -3,7 +3,7 @@ site_url: https://belphonz.github.io/Starve-Style
 
 theme:
     name: 'material'
-     palette:
+    palette:
       scheme: slate
     logo: assets/logo.png
     favicon: assets/logo.png
