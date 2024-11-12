@@ -18,7 +18,7 @@ This should be kept in mind not only for readers of this but also to myself, wit
 - **A topic per page**
 - **Topics are organised within Scopes**
 - Each Page discussing an aspect of C++ Syntax and the rules that should be followed 
-- The Reasons for the Guideline will be stated in prose rather than specific of being in sections this will overall be free flowing as to increase readability (This is Subject to Change)
+- ~~The Reasons for each Syntax will be stated in prose rather than being separated into specific sections.  The aim is to increase understanding as the style should be internalised rather than blindly followed (This is Subject to Change).~~
 
 ### <u>What is a Topic?</u>
 
@@ -30,11 +30,11 @@ An Example of this being : `using an if statement to end a function early.`
 ### <u>Why Organise topics within Scopes?</u>
 
 **Several Topics should change rules depending on context.**  
-Using an if statement within a function where you have access to the return statement should have different ruleset than within Local Scope, or naming conventions of public and private data members should be distinguishable from variables declared within the scope of a function.
+Using an if statement within a function where you have access to the return statement should have a different ruleset than within Local Scope, or naming conventions of public and private data members should be distinguishable from variables declared within the scope of a function.
 
 I believe that a good code guideline should be formatted in a way that at the very least naming convention wise, you should be able to look at a snippet of code and tell where it is located.
 
-With this in mind we can segment groups of rules into the environment you find them in or in C++ we can call **Scopes** (the actual C++ language feature).
+With this in mind we can segment groups of rules into the environment you find them in or in C++ what we can call **Scopes** (the actual C++ language feature).
 
 ## <u>Interlude</u>
 
