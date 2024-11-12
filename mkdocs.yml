@@ -14,7 +14,7 @@ theme:
 
       - navigation.instant
       - navigation.instant.progress
-	  - content.code.copy
+      - content.code.copy
 extra:
   generator: false
   social:
