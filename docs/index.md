@@ -1,6 +1,6 @@
 # Introduction
 
-## <u>What is this ?</u>
+## <u>What is this?</u>
 
 **This is the Main Code Guideline that Aethel Bon Crown uses whenever coding in C++.**
 
