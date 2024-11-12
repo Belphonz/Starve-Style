@@ -2,7 +2,7 @@
 #### <u>General Cases :</u>
 Within a `for loop`, the variable used as an index should follow the following naming convention within general cases : 
 
-```cpp
+``` cpp linenums="1"
 for (size_t i{0}; i < size; ++i)
 {
 	for (size_t j{0};j < size; ++j)
