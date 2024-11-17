@@ -1,0 +1,32 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "docs": [
+      "docs/assets",
+      "docs/stylesheets",
+      "docs/index.md",
+      "docs/Global Scope",
+      "docs/Local Scope Within Main",
+      "docs/Class Scope",
+      "docs/Function Scope",
+      "docs/Scope in Flow Control"
+    ],
+    "": [
+      "LICENSE",
+      "mkdocs.yml",
+      "docs",
+      "README.md"
+    ],
+    "docs/Scope in Flow Control": [
+      "docs/Scope in Flow Control/Naming Conventions__Loop Index.md",
+      "docs/Scope in Flow Control/Naming Conventions__Instantiation.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200,
+  "sortOrder": "custom",
+  "useCollapse": true
+}

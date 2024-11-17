@@ -1,0 +1,9 @@
+{
+  "mySetting": "txt,nfo,json,css,yml",
+  "mySettingArray": [
+    "txt",
+    "nfo",
+    "json.css",
+    "yml"
+  ]
+}
