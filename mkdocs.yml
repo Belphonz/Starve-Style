@@ -14,7 +14,14 @@ theme:
       - navigation.path
       - navigation.instant
       - navigation.instant.progress
+      - navigation.indexes
       - content.code.copy
+nav:
+    - Global Scope:
+    - Local Scope Within Main:
+    - Complex Type Scope:
+    - Function Scope:
+    - Scope in Flow Control Statements:
 extra:
   generator: false
   social:

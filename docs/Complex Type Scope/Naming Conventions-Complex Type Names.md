@@ -1,4 +1,4 @@
-# Naming Conventions : Class Names
+# Naming Conventions : Complex Type Names
 ### <u>Classes </u>
 
 `C++ Classes` should be named using `UpperCamelCase`, this is to differentiate them from `structs and user defined aliases` :

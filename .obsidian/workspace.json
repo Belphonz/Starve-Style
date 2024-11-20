@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Class Scope/Class and Struct Layout.md",
+                "file": "docs/Complex Type Scope/Complex Type Layout.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Class and Struct Layout"
+              "title": "Complex Type Layout"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Class Scope/Class and Struct Layout.md",
+                "file": "docs/Complex Type Scope/Complex Type Layout.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class and Struct Layout"
+              "title": "Complex Type Layout"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "docs/Complex Type Scope/Complex Type Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Complex Type Layout"
             }
           },
           {
@@ -194,22 +194,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39b080bec21f3e6b",
+  "active": "f4efa75fa020f393",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/Class Scope/Class and Struct Layout.md",
-    "docs/Class Scope/Naming Conventions-Class Names.md",
+    "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
     "mkdocs.yml",
-    "docs/Scope in Flow Control/Naming Conventions-Loop Index.md",
-    "docs/Scope in Flow Control/Naming Conventions-Instantiation.md",
+    "docs/Complex Type Scope/Complex Type Layout.md",
+    "docs/index.md",
+    "docs/Scope in Flow Control Statements/Naming Conventions-Loop Index.md",
+    "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
     "docs/Local Scope Within Main/temp.md",
     "docs/Global Scope/temp.md",
     "docs/stylesheets/extra.css",
-    "docs/Scope in Flow Control",
+    "docs/Scope in Flow Control Statements",
     "docs/Function Scope",
     "README.md",
     "docs/Global Scope",
-    "docs/Class Scope",
+    "docs/Complex Type Scope",
     "docs/Local Scope Within Main",
     "docs/stylesheets/Global Scope",
     "docs/Introduction.md",

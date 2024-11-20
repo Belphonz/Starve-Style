@@ -6,9 +6,9 @@
       "docs/assets",
       "docs/Global Scope",
       "docs/Local Scope Within Main",
-      "docs/Class Scope",
+      "docs/Complex Type Scope",
       "docs/Function Scope",
-      "docs/Scope in Flow Control",
+      "docs/Scope in Flow Control Statements",
       "docs/stylesheets",
       "docs/index.md"
     ],
@@ -18,9 +18,9 @@
       "docs",
       "README.md"
     ],
-    "docs/Scope in Flow Control": [
-      "docs/Scope in Flow Control/Naming Conventions-Loop Index.md",
-      "docs/Scope in Flow Control/Naming Conventions-Instantiation.md"
+    "docs/Scope in Flow Control Statements": [
+      "docs/Scope in Flow Control Statements/Naming Conventions-Loop Index.md",
+      "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md"
     ]
   },
   "actionBarOrder": {},
