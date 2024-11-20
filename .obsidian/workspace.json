@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex Type Scope/Complex Type Layout.md",
+                "file": "docs/Complex Type Scope/Naming Conventions-Attributes and Methods.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Complex Type Layout"
+              "title": "Naming Conventions-Attributes and Methods"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Complex Type Scope/Complex Type Layout.md",
+                "file": "docs/Complex Type Scope/Naming Conventions-Attributes and Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Complex Type Layout"
+              "title": "Backlinks for Naming Conventions-Attributes and Methods"
             }
           },
           {
@@ -197,6 +197,7 @@
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
     "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
+    "docs/Complex Type Scope/Naming Conventions-Attributes and Methods.md",
     "docs/Complex Type Scope/Complex Type Layout.md",
     "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
     "docs/Scope in Flow Control Statements/Naming Conventions-Loop Index.md",
