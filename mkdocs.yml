@@ -18,7 +18,7 @@ theme:
       - content.code.copy
 nav:
     - index.md
-    - Global Scope : index.md
+    - Global Scope : Global Scope/index.md
     - Local Scope Within Main : index.md
     - Complex Type Scope : index.md
     - Function Scope : index.md
