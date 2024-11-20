@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
+                "file": "docs/Global Scope/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming Conventions-Instantiation"
+              "title": "index"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
+                "file": "docs/Global Scope/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Naming Conventions-Instantiation"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
     "docs/Scope in Flow Control Statements/Naming Conventions-Loop Index.md",
     "docs/Complex Type Scope/Complex Type Layout.md",
     "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
@@ -206,7 +207,6 @@
     "docs/Global Scope/index.md",
     "mkdocs.yml",
     "docs/index.md",
-    "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
     "docs/stylesheets/extra.css",
     "docs/Scope in Flow Control Statements",
     "docs/Function Scope",
