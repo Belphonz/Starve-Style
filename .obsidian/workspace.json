@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex Type Scope/Complex Type Layout.md",
+                "file": "docs/Scope in Flow Control Statements/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Complex Type Layout"
+              "title": "index"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Complex Type Scope/Complex Type Layout.md",
+                "file": "docs/Scope in Flow Control Statements/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Complex Type Layout"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -196,8 +196,11 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Local Scope Within Main/temp.md",
-    "docs/Global Scope/temp.md",
+    "docs/Function Scope/index.md",
+    "docs/Scope in Flow Control Statements/index.md",
+    "docs/Complex Type Scope/index.md",
+    "docs/Local Scope Within Main/index.md",
+    "docs/Global Scope/index.md",
     "docs/Complex Type Scope/Complex Type Layout.md",
     "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
     "mkdocs.yml",
