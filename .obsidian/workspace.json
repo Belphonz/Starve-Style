@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Scope in Flow Control/Naming Conventions__Loop Index.md",
+                "file": "docs/Class Scope/temp.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming Conventions__Loop Index"
+              "title": "temp"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Scope in Flow Control/Naming Conventions__Instantiation.md",
+    "docs/Global Scope/temp.md",
     "docs/Scope in Flow Control/Naming Conventions__Loop Index.md",
+    "docs/Scope in Flow Control/Naming Conventions__Instantiation.md",
     "docs/index.md",
     "mkdocs.yml",
     "docs/stylesheets/extra.css",

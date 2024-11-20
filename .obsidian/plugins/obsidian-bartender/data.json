@@ -4,13 +4,13 @@
   "fileExplorerOrder": {
     "docs": [
       "docs/assets",
-      "docs/stylesheets",
-      "docs/index.md",
       "docs/Global Scope",
       "docs/Local Scope Within Main",
       "docs/Class Scope",
       "docs/Function Scope",
-      "docs/Scope in Flow Control"
+      "docs/Scope in Flow Control",
+      "docs/stylesheets",
+      "docs/index.md"
     ],
     "": [
       "LICENSE",
