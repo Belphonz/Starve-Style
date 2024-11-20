@@ -1,1 +1,1 @@
-{\rtf1}
+# Local Scope Within Main
