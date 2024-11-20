@@ -16,4 +16,4 @@ private:
 
 ### <u>Protected</u>
 
-If there
+If there is a `protected specifier`, than `attributes under the protected scope` should
