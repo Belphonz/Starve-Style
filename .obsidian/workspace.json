@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mkdocs.yml",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "mkdocs"
+              "title": "index"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Class Scope/Naming Conventions-Class Names.md",
+                "file": "docs/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naming Conventions-Class Names"
+              "title": "index"
             }
           }
         ]
@@ -194,16 +194,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e0ca1eec86fb2cc",
+  "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Class Scope/Class and Struct Layout.md",
     "docs/Class Scope/Naming Conventions-Class Names.md",
+    "docs/index.md",
+    "docs/Class Scope/Class and Struct Layout.md",
+    "mkdocs.yml",
     "docs/Scope in Flow Control/Naming Conventions-Loop Index.md",
     "docs/Scope in Flow Control/Naming Conventions-Instantiation.md",
     "docs/Local Scope Within Main/temp.md",
     "docs/Global Scope/temp.md",
-    "docs/index.md",
-    "mkdocs.yml",
     "docs/stylesheets/extra.css",
     "docs/Scope in Flow Control",
     "docs/Function Scope",
