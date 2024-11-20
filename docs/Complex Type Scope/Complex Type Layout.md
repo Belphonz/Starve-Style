@@ -41,9 +41,9 @@ Within the `public class scope`, `constructors`, `destructors`and `operator over
 ``` cpp linenums="1"
 struct genBundle 
 {
-	float floatArray[3];
-	int intArray[3];
-	size_t addressArray[3];
+	float FloatArray[3];
+	int IntArray[3];
+	size_t AddressArray[3];
 }
 ```
 

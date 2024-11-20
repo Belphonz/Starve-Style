@@ -194,11 +194,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39b080bec21f3e6b",
+  "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
     "docs/Complex Type Scope/Complex Type Layout.md",
     "docs/Complex Type Scope/Naming Conventions-Attributes and Methods.md",
-    "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
+    "Pasted image 20241120192941.png",
     "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
     "docs/Scope in Flow Control Statements/Naming Conventions-Loop Index.md",
     "docs/Function Scope/index.md",
