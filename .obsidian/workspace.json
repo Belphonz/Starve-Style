@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Class Scope/Class and Struct Layout.md",
+                "file": "mkdocs.yml",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Class and Struct Layout"
+              "title": "mkdocs"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Class Scope/Naming Conventions-Class Names.md",
     "docs/Class Scope/Class and Struct Layout.md",
+    "docs/Class Scope/Naming Conventions-Class Names.md",
     "docs/Scope in Flow Control/Naming Conventions-Loop Index.md",
     "docs/Scope in Flow Control/Naming Conventions-Instantiation.md",
     "docs/Local Scope Within Main/temp.md",
