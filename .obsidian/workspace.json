@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Class Scope/temp.md",
+                "file": "docs/Class Scope/Naming Conventions-Class Names.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "Naming Conventions-Class Names"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Scope in Flow Control/Naming Conventions__Loop Index.md",
+                "file": "docs/Class Scope/Naming Conventions-Class Names.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naming Conventions__Loop Index"
+              "title": "Naming Conventions-Class Names"
             }
           }
         ]
@@ -196,9 +196,11 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Scope in Flow Control/Naming Conventions-Loop Index.md",
+    "docs/Scope in Flow Control/Naming Conventions-Instantiation.md",
+    "docs/Class Scope/Naming Conventions-Class Names.md",
+    "docs/Local Scope Within Main/temp.md",
     "docs/Global Scope/temp.md",
-    "docs/Scope in Flow Control/Naming Conventions__Loop Index.md",
-    "docs/Scope in Flow Control/Naming Conventions__Instantiation.md",
     "docs/index.md",
     "mkdocs.yml",
     "docs/stylesheets/extra.css",
