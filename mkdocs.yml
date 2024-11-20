@@ -18,11 +18,20 @@ theme:
       - content.code.copy
 nav:
     - index.md
-    - Global Scope : Global Scope/index.md
-    - Local Scope Within Main : index.md
-    - Complex Type Scope : index.md
-    - Function Scope : index.md
-    - Scope in Flow Control Statements : index.md
+    - Global Scope :
+        - Global Scope/index.md
+    - Local Scope Within Main : 
+        - Local Scope Within Main/index.md
+    - Complex Type Scope : 
+        - Complex Type Scope/index.md
+        - Complex Type Scope/Naming Conventions-Complex Type Names.md
+        - Complex Type Scope/Complex Type Layout.md
+    - Function Scope : 
+        - Function Scope/index.md
+    - Scope in Flow Control Statements : 
+        - Scope in Flow Control Statements/index.md
+        - Scope in Flow Control Statements/Naming Conventions-Loop Index.md
+        - Scope in Flow Control Statements/Naming Conventions-Instantiation.md
 extra:
   generator: false
   social:
