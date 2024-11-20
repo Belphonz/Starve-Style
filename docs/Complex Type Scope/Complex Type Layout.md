@@ -47,3 +47,5 @@ struct genBundle
 }
 ```
 
+Due to the fact that generally `Structs` will only possess `attributes` and no `methods` the layout is simple, a list of the `attributes.`
+For specific cases where there are `methods`, they should be under the `attributes.`
