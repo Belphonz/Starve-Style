@@ -3,7 +3,8 @@
 
 `C++ Classes` should be named using `UpperCamelCase`, this is to differentiate them from `structs and user defined aliases` :
 ``` cpp linenums="1"
-class GenericInterface {
+class GenericInterface 
+{
 
 }; 
 ```

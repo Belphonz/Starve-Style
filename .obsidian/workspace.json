@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Scope in Flow Control Statements/index.md",
+                "file": "docs/Complex Type Scope/Complex Type Layout.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Complex Type Layout"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex Type Scope/index.md",
+                "file": "docs/Complex Type Scope/Complex Type Layout.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Complex Type Layout"
             }
           }
         ]
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Scope in Flow Control Statements/index.md",
+                "file": "docs/Complex Type Scope/Complex Type Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Complex Type Layout"
             }
           },
           {
@@ -194,19 +194,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f4efa75fa020f393",
+  "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Function Scope/index.md",
-    "docs/Complex Type Scope/index.md",
-    "docs/Local Scope Within Main/index.md",
-    "docs/Complex Type Scope/Complex Type Layout.md",
-    "docs/Global Scope/index.md",
+    "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
     "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md",
     "docs/Scope in Flow Control Statements/Naming Conventions-Loop Index.md",
-    "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
-    "docs/Scope in Flow Control Statements/index.md",
-    "mkdocs.yml",
+    "docs/Function Scope/index.md",
     "docs/index.md",
+    "docs/Complex Type Scope/Complex Type Layout.md",
+    "docs/Complex Type Scope/index.md",
+    "docs/Scope in Flow Control Statements/index.md",
+    "docs/Local Scope Within Main/index.md",
+    "docs/Global Scope/index.md",
+    "mkdocs.yml",
     "docs/stylesheets/extra.css",
     "docs/Scope in Flow Control Statements",
     "docs/Function Scope",
