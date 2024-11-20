@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Class Scope/Naming Conventions-Class Names.md",
+                "file": "docs/Class Scope/Class and Struct Layout.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming Conventions-Class Names"
+              "title": "Class and Struct Layout"
             }
           }
         ]
@@ -196,9 +196,10 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Class Scope/Naming Conventions-Class Names.md",
+    "docs/Class Scope/Class and Struct Layout.md",
     "docs/Scope in Flow Control/Naming Conventions-Loop Index.md",
     "docs/Scope in Flow Control/Naming Conventions-Instantiation.md",
-    "docs/Class Scope/Naming Conventions-Class Names.md",
     "docs/Local Scope Within Main/temp.md",
     "docs/Global Scope/temp.md",
     "docs/index.md",
