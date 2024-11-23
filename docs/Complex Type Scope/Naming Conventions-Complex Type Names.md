@@ -16,7 +16,8 @@ However, if very well known Shorthands can be used instead then they should be.
 
 `C++ Structs` should be named using `lowerCamelCase` :
 ``` cpp linenums="1"
-struct shapeBundle {
+struct shapeBundle 
+{
 
 }; 
 ```

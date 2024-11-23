@@ -26,6 +26,7 @@ nav:
         - Complex Type Scope/index.md
         - Complex Type Scope/Naming Conventions-Complex Type Names.md
         - Complex Type Scope/Complex Type Layout.md
+        - Complex Type Scope/Naming Conventions-Attributes and Methods.md
     - Function Scope : 
         - Function Scope/index.md
     - Scope in Flow Control Statements : 

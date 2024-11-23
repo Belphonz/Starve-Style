@@ -32,6 +32,12 @@
       "docs/Scope in Flow Control Statements/index.md",
       "docs/Scope in Flow Control Statements/Naming Conventions-Loop Index.md",
       "docs/Scope in Flow Control Statements/Naming Conventions-Instantiation.md"
+    ],
+    "docs/Complex Type Scope": [
+      "docs/Complex Type Scope/index.md",
+      "docs/Complex Type Scope/Naming Conventions-Complex Type Names.md",
+      "docs/Complex Type Scope/Complex Type Layout.md",
+      "docs/Complex Type Scope/Naming Conventions-Attributes and Methods.md"
     ]
   },
   "actionBarOrder": {},
