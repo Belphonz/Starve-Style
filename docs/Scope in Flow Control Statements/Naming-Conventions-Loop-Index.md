@@ -1,5 +1,5 @@
 #  Naming Conventions : Loop Index
-### <u>General Cases :</u>
+### <u>General Cases</u>
 Within a `for loop`, the variable used as an index should follow the following naming convention within general cases : 
 
 ``` cpp linenums="1"
@@ -18,7 +18,7 @@ for (size_t i{0}; i < size; ++i)
 `i,j,k` is used as it is generally the most universally understood variable names for index's for `for loops` across software engineering.   
 Using `index, deltaIndex,..` was entertained however has been dropped due to the overall lack of clarity it possessed compared to the unofficial standard. 
 
-### <u>Other Cases :</u>
+### <u>Other Cases</u>
 
 Within cases where a more apt name can be chosen for the index, they should be preferred over `i,j,k`.   
 An Example being `x,y,z` when the loop is iterating over something that can be called spatial dimensions.  

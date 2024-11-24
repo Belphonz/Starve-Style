@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Scope in Flow Control Statements/Naming-Conventions-Instantiation.md",
+                "file": "docs/Complex Type Scope/Naming-Conventions-Attributes-and-Methods.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Instantiation"
+              "title": "Naming-Conventions-Attributes-and-Methods"
             }
           }
         ]
@@ -196,12 +196,12 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Scope in Flow Control Statements/Naming-Conventions-Loop-Index.md",
     "docs/Complex Type Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex Type Scope/Complex-Type-Layout.md",
     "docs/Complex Type Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "Pasted image 20241120192941.png",
+    "docs/Scope in Flow Control Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope in Flow Control Statements/Naming-Conventions-Instantiation.md",
+    "Pasted image 20241120192941.png",
     "docs/Function Scope/index.md",
     "docs/index.md",
     "docs/Complex Type Scope/index.md",
