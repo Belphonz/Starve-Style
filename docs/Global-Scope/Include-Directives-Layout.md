@@ -4,13 +4,12 @@
 Example :
 
 ``` cpp linenums="1"
-#STD Library
 #include <iostream>
 #incldude <cmaths>
-#EXTERNAL LIBRARY + PROJECT HEADERS
+
 #include "Arson/Tensor2DArray.h"
 #include "GeneralInterface.h"
-#CLASS DEFINITION
+
 #include "shapeBundle.h"
 ```
 
