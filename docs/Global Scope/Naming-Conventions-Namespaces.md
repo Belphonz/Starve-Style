@@ -14,10 +14,10 @@ namespace Arn
 If a library is big enough to warrant having several `NameSpaces` than they should be the subject then a 3-5 characters sequence.
 Example :
 ``` cpp linenums="1"
-#Library Arson
-namespace Col
+#Coalescence Engine
+namespace COSCE
 {
-	namespace Arn
+	namespace GFX
 	{
 	}
 }
