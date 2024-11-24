@@ -1,7 +1,8 @@
 # Naming Conventions : Attributes and Methods
 ### <u>Private</u>
 
-To differentiate between different `Access specifier scopes`, and code within a function, `Attributes within the Private class Scope`, should be `_lowerCamelCase`, `methods` should be `_UpperCamelCase` like the following :  
+To differentiate between different `Access specifier scopes`, and code within a function, `Attributes within the Private class Scope`, should be `_lowerCamelCase`, `methods` should be `_UpperCamelCase`.
+Example :  
 ``` cpp linenums="1"
 class GenericInterface 
 {
@@ -16,8 +17,8 @@ private:
 
 ### <u>Protected</u>
 
-If there is a `protected specifier`, then `attributes under the protected class scope` should be `_lowerCamelCase` and the `private attributes` should be `__lowerCamelCase`, methods should be  `_UpperCamelCase` and `private methods` should be  `__UpperCamelCase` like the following :
-
+If there is a `protected specifier`, then `attributes under the protected class scope` should be `_lowerCamelCase` and the `private attributes` should be `__lowerCamelCase`, methods should be  `_UpperCamelCase` and `private methods` should be  `__UpperCamelCase` .
+Example :  
 ``` cpp linenums="1"
 class GenericInterface 
 {
@@ -36,8 +37,8 @@ protected:
 
 ### <u>Public</u>
 
-Within the `Public class scope`, `attributes` should be `UpperCamelCase` and `methods` should be the same as the following :
-
+Within the `Public class scope`, `attributes` should be `UpperCamelCase` and `methods` should be the same.
+Example :  
 ``` cpp linenums="1"
 struct genBundle 
 {

@@ -38,6 +38,10 @@
       "docs/Complex Type Scope/Naming-Conventions-Complex-Type-Names.md",
       "docs/Complex Type Scope/Complex-Type-Layout.md",
       "docs/Complex Type Scope/Naming-Conventions-Attributes-and-Methods.md"
+    ],
+    "docs/Global Scope": [
+      "docs/Global Scope/index.md",
+      "docs/Global Scope/Include-Directives-Layout.md"
     ]
   },
   "actionBarOrder": {},
