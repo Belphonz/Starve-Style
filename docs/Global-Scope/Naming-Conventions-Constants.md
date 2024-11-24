@@ -1,3 +1,3 @@
 # Naming Conventions : Constants
 
-Constant variables should be written with 
+Constant variables should be written with ``
