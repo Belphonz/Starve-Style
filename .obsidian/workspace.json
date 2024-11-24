@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global Scope/Naming-Conventions-Namespaces.md",
+                "file": "docs/Global-Scope/Naming-Conventions-Namespaces.md",
                 "mode": "source",
                 "source": true
               },
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global Scope/Naming-Conventions-Namespaces.md",
+                "file": "docs/Global-Scope/Naming-Conventions-Namespaces.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,29 +194,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e0ca1eec86fb2cc",
+  "active": "f4efa75fa020f393",
   "lastOpenFiles": [
-    "docs/Complex Type Scope/Naming-Conventions-Complex-Type-Names.md",
-    "docs/Global Scope/Naming-Conventions-Namespaces.md",
-    "docs/Global Scope/Include-Directives-Layout.md",
-    "docs/Complex Type Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Global Scope/index.md",
-    "docs/Complex Type Scope/Complex-Type-Layout.md",
-    "docs/Scope in Flow Control Statements/Naming-Conventions-Loop-Index.md",
-    "docs/Scope in Flow Control Statements/Naming-Conventions-Instantiation.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
+    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
+    "docs/Global-Scope/Include-Directives-Layout.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
+    "docs/Global-Scope/index.md",
+    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
+    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
+    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
     "Pasted image 20241120192941.png",
-    "docs/Function Scope/index.md",
+    "docs/Function-Scope/index.md",
     "docs/index.md",
-    "docs/Complex Type Scope/index.md",
-    "docs/Scope in Flow Control Statements/index.md",
+    "docs/Complex-Type-Scope/index.md",
+    "docs/Scope-in-Flow-Control-Statements/index.md",
     "docs/Local Scope Within Main/index.md",
     "mkdocs.yml",
     "docs/stylesheets/extra.css",
-    "docs/Scope in Flow Control Statements",
-    "docs/Function Scope",
+    "docs/Scope-in-Flow-Control-Statements",
+    "docs/Function-Scope",
     "README.md",
-    "docs/Global Scope",
-    "docs/Complex Type Scope",
+    "docs/Global-Scope",
+    "docs/Complex-Type-Scope",
     "docs/Local Scope Within Main",
     "docs/stylesheets/Global Scope",
     "docs/Introduction.md",
