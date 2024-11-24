@@ -196,9 +196,9 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Global-Scope/Naming-Conventions-Constants.md",
+    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
