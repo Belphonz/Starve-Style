@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global-Scope/Include-Directives-Layout.md",
+                "file": "docs/Global-Scope/Naming-Conventions-Namespaces.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Include-Directives-Layout"
+              "title": "Naming-Conventions-Namespaces"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39b080bec21f3e6b",
+  "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
+    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
