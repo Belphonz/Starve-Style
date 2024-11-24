@@ -11,4 +11,4 @@ namespace Arn
 }
 ```
 
-If a library is big enough to warrant having several
+If a library is big enough to warrant having several,
