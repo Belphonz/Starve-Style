@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global-Scope/Scope.md",
+                "file": "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Scope"
+              "title": "Naming-Conventions-Complex-Type-Names"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39b080bec21f3e6b",
+  "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Global-Scope/Naming-Conventions-Constants.md",
-    "docs/Global-Scope/Scope.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
+    "docs/Global-Scope/Scope.md",
+    "docs/Global-Scope/Naming-Conventions-Constants.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",

@@ -11,7 +11,7 @@ namespace Arn
 }
 ```
 
-If a library is big enough to warrant having several `NameSpaces` than they should be the subject then a 3-5 characters sequence.
+If a library is big enough to warrant having several `NameSpaces` than the `Namespace` should be the subject crushed into a 3-5 characters sequence.
 Example :
 ``` cpp linenums="1"
 //Coalescence Engine
