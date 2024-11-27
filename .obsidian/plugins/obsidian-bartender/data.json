@@ -4,13 +4,13 @@
   "fileExplorerOrder": {
     "docs": [
       "docs/assets",
+      "docs/index.md",
       "docs/Global-Scope",
       "docs/Local Scope Within Main",
       "docs/Complex-Type-Scope",
       "docs/Function-Scope",
       "docs/Scope-in-Flow-Control-Statements",
-      "docs/stylesheets",
-      "docs/index.md"
+      "docs/stylesheets"
     ],
     "": [
       "LICENSE",
@@ -26,16 +26,15 @@
     ],
     "docs/Scope in Flow Control": [
       "docs/Scope-in-Flow-Control-Statements/index.md",
-      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
-      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md"
+      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md"
     ],
     "docs/Global-Scope": [
       "docs/Global-Scope/index.md",
       "docs/Global-Scope/Header-Guard.md",
       "docs/Global-Scope/Include-Directives-Layout.md",
-      "docs/Global-Scope/Naming-Conventions-Constants.md",
+      "docs/Global-Scope/Scope.md",
       "docs/Global-Scope/Naming-Conventions-Namespaces.md",
-      "docs/Global-Scope/Scope.md"
+      "docs/Global-Scope/Naming-Conventions-Constants.md"
     ],
     "docs/Complex-Type-Scope": [
       "docs/Complex-Type-Scope/index.md",
@@ -44,8 +43,8 @@
       "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md"
     ],
     "docs/Scope-in-Flow-Control-Statements": [
-      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
-      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md"
+      "docs/Scope-in-Flow-Control-Statements/index.md",
+      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md"
     ]
   },
   "actionBarOrder": {},
