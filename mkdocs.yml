@@ -20,6 +20,7 @@ nav:
     - index.md
     - Global Scope :
         - Global-Scope/index.md
+        - Global-Scope/Header-Guard.md
         - Global-Scope/Include-Directives-Layout.md
         - Global-Scope/Scope.md
         - Global-Scope/Naming-Conventions-Namespaces.md
