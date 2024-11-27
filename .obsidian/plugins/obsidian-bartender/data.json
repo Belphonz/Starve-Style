@@ -31,7 +31,11 @@
     ],
     "docs/Global-Scope": [
       "docs/Global-Scope/index.md",
-      "docs/Global-Scope/Include-Directives-Layout.md"
+      "docs/Global-Scope/Header-Guard.md",
+      "docs/Global-Scope/Include-Directives-Layout.md",
+      "docs/Global-Scope/Naming-Conventions-Constants.md",
+      "docs/Global-Scope/Naming-Conventions-Namespaces.md",
+      "docs/Global-Scope/Scope.md"
     ],
     "docs/Complex-Type-Scope": [
       "docs/Complex-Type-Scope/index.md",
