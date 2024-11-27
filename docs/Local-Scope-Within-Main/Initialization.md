@@ -15,4 +15,5 @@ int main()
 
 `List Initialization` is preferred between all the above methods.  
 There are several reasons for this.  
-The Primary reason is for consistency, `Class`, `Aggregate`, ``
+The Primary reason is for consistency, `Class`, `Aggregate`, etc `Initialization` all use `{}`, having Initialization specifically always be associated with it is useful for legibility. 
+In addition `List Initialization`, allows for `Zero-Initialization`
