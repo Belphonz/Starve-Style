@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local Scope Within Main/Instantiation.md",
+                "file": "docs/Local-Scope-Within-Main/Instantiation.md",
                 "mode": "source",
                 "source": true
               },
@@ -194,12 +194,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39b080bec21f3e6b",
+  "active": "f4efa75fa020f393",
   "lastOpenFiles": [
-    "docs/Local Scope Within Main/Instantiation.md",
     "docs/Global-Scope/Header-Guard.md",
-    "docs/Local Scope Within Main/Scope.md",
-    "docs/Local Scope Within Main/index.md",
+    "docs/Local-Scope-Within-Main/Instantiation.md",
+    "docs/Local-Scope-Within-Main/Scope.md",
+    "docs/Local-Scope-Within-Main/index.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Global-Scope/index.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
@@ -221,7 +221,7 @@
     "README.md",
     "docs/Global-Scope",
     "docs/Complex-Type-Scope",
-    "docs/Local Scope Within Main",
+    "docs/Local-Scope-Within-Main",
     "docs/stylesheets/Global Scope",
     "docs/Introduction.md",
     "docs/assets/logo.png",

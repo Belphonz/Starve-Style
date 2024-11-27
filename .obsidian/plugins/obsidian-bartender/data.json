@@ -6,7 +6,7 @@
       "docs/assets",
       "docs/index.md",
       "docs/Global-Scope",
-      "docs/Local Scope Within Main",
+      "docs/Local-Scope-Within-Main",
       "docs/Complex-Type-Scope",
       "docs/Function-Scope",
       "docs/Scope-in-Flow-Control-Statements",
@@ -34,7 +34,7 @@
       "docs/Global-Scope/Include-Directives-Layout.md",
       "docs/Global-Scope/Naming-Conventions-Namespaces.md",
       "docs/Global-Scope/Naming-Conventions-Constants.md",
-      "docs/Local Scope Within Main/Scope.md"
+      "docs/Local-Scope-Within-Main/Scope.md"
     ],
     "docs/Complex-Type-Scope": [
       "docs/Complex-Type-Scope/index.md",
