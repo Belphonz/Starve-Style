@@ -1,0 +1,1 @@
+The Header Guard is a directive used to ensure that header files are only copied once into any single file. While `#pragma once` can be used, due to the 

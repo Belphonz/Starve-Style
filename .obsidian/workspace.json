@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
+                "file": "docs/Global-Scope/Header-Guard.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Complex-Type-Names"
+              "title": "Header-Guard"
             }
           }
         ]
@@ -196,12 +196,13 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Global-Scope/Include-Directives-Layout.md",
+    "docs/Global-Scope/Header-Guard.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Global-Scope/Scope.md",
     "docs/Global-Scope/Naming-Conventions-Constants.md",
-    "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Global-Scope/index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
@@ -233,7 +234,6 @@
     "docs/Features/Mermaid Diagrams.md",
     "docs/Features/Text Formatting.md",
     "docs/Features/LaTeX Math Support.md",
-    "Untitled.md",
-    "Welcome.md"
+    "Untitled.md"
   ]
 }
