@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
+                "file": "docs/Local-Scope-Within-Main/Scope.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Variables"
+              "title": "Scope"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
-    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
     "docs/Global-Scope/Naming-Conventions-Constants.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
