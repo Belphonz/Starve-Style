@@ -23,4 +23,4 @@ This reduces bugs as variables `Initialized` with no values may keep garbage dat
 
 ### <u>Multiple Initializations</u>
 
-Within C++ it is possible for you to `Initialise`
+Within C++ it is possible for you to `Initialise` several variables of the same time 
