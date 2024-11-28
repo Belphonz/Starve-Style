@@ -196,10 +196,10 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Global-Scope/Header-Guard.md",
-    "docs/Local-Scope-Within-Main/Initialization.md",
-    "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Local-Scope-Within-Main/index.md",
+    "docs/Local-Scope-Within-Main/Initialization.md",
+    "docs/Global-Scope/Header-Guard.md",
+    "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Global-Scope/index.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
