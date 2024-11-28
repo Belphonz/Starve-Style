@@ -29,6 +29,7 @@ nav:
     - Local-Scope-Within-Main/Initialization.md
     - Local-Scope-Within-Main/Naming-Conventions-Variables.md
     - Local-Scope-Within-Main/Scope.md
+    - Local-Scope-Within-Main/Pointer-and-Reference-Notation.md
   - Complex Type Scope :
     - Complex-Type-Scope/index.md
     - Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md
