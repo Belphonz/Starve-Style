@@ -45,6 +45,13 @@
     "docs/Scope-in-Flow-Control-Statements": [
       "docs/Scope-in-Flow-Control-Statements/index.md",
       "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md"
+    ],
+    "docs/Local-Scope-Within-Main": [
+      "docs/Local-Scope-Within-Main/index.md",
+      "docs/Local-Scope-Within-Main/Initialization.md",
+      "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
+      "docs/Local-Scope-Within-Main/Scope.md",
+      "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md"
     ]
   },
   "actionBarOrder": {},
