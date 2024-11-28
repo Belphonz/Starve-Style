@@ -2,43 +2,43 @@ site_name: "Starve Style : A C++ Coding Guideline"
 site_url: https://belphonz.github.io/Starve-Style
 
 theme:
-    name: 'material'
-    palette:
-      scheme: slate
-    logo: assets/logo.png
-    favicon: assets/logo.png
-    primary: cyan
-    accent: teal
-    features:
-      - navigation.footer
-      - navigation.path
-      - navigation.instant
-      - navigation.instant.progress
-      - navigation.indexes
-      - content.code.copy
+  name: 'material'
+  palette:
+    scheme: slate
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  primary: cyan
+  accent: teal
+  features:
+    - navigation.footer
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.indexes
+    - content.code.copy
 nav:
-    - index.md
-    - Global Scope :
-      - Global-Scope/index.md
-      - Global-Scope/Header-Guard.md
-      - Global-Scope/Include-Directives-Layout.md
-      - Global-Scope/Naming-Conventions-Namespaces.md
-      - Global-Scope/Naming-Conventions-Constants.md
-    - Local Scope Within Main :
-      - Local-Scope-Within-Main/index.md
-      - Local-Scope-Within-Main/Initialization.md
-      - Local-Scope-Within-Main/Naming-Conventions-Variables.md
-      - Local-Scope-Within-Main/Scope.md
-    - Complex Type Scope :
-      - Complex-Type-Scope/index.md
-      - Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md
-      - Complex-Type-Scope/Complex-Type-Layout.md
-      - Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md
-    - Function Scope :
-      - Function-Scope/index.md
-    - Scope in Flow Control Statements :
-      - Scope-in-Flow-Control-Statements/index.md
-      - Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md
+  - index.md
+  - Global Scope :
+    - Global-Scope/index.md
+    - Global-Scope/Header-Guard.md
+    - Global-Scope/Include-Directives-Layout.md
+    - Global-Scope/Naming-Conventions-Namespaces.md
+    - Global-Scope/Naming-Conventions-Constants.md
+  - Local Scope Within Main :
+    - Local-Scope-Within-Main/index.md
+    - Local-Scope-Within-Main/Initialization.md
+    - Local-Scope-Within-Main/Naming-Conventions-Variables.md
+    - Local-Scope-Within-Main/Scope.md
+  - Complex Type Scope :
+    - Complex-Type-Scope/index.md
+    - Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md
+    - Complex-Type-Scope/Complex-Type-Layout.md
+    - Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md
+  - Function Scope :
+    - Function-Scope/index.md
+  - Scope in Flow Control Statements :
+    - Scope-in-Flow-Control-Statements/index.md
+    - Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md
 extra:
   generator: false
   social:
