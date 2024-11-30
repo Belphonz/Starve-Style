@@ -23,4 +23,14 @@ This reduces bugs as variables `Initialized` with no values may keep garbage dat
 
 ### <u>Multiple Initializations</u>
 
-Within C++ it is possible for you to `Initialise` several variables of the same time 
+Within C++ it is possible for you to `Initialise` several variables of the same type within a singular statement.
+Example :
+``` cpp linenums="1"
+int main()
+{
+	int x{}, y{};
+}
+```
+For legibility’s sake this practice will be strictly banned within this coding guideline.
+While I find it reasonable to use this syntax for variables such as `x,y,z` like the above example, it gets quickly out of hand the moment you use variables whose names exceed a singular character in length.   
+Due to the aforementioned reason and for the sake of consistency, each  `Initialised` variable should occupy a new line.
