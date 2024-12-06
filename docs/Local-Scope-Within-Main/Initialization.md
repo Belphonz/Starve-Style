@@ -2,7 +2,7 @@
 
 ### <u>Initialization Type</u>
 
-There are several ways to go about `Initialization` within C++.
+There are several ways to go about `initialization` within C++.
 ``` cpp linenums="1"
 int main()
 {
@@ -15,9 +15,9 @@ int main()
 }
 ```
 
-`List Initialization` is preferred between all the above methods.  
+`Direct List Initialization` is preferred between all of the above methods.  
 There are several reasons for this.  
-The Primary reason is for consistency, `Class`, `Aggregate`, etc `Initialization` all use `{}`, having Initialization specifically always be associated with it is useful for legibility. 
+The Primary reason is for consistency. `Class` and `Aggregate` `initialization` all use `{}`, having `initialization` specifically always be associated with it is useful for legibility. 
 In addition `List Initialization`, allows for `Zero-Initialization`.   
 This reduces bugs as variables `Initialized` with no values may keep garbage data.
 
