@@ -22,9 +22,9 @@ struct shapeBundle
 }; 
 ```
 
-`Structs` within C++ are functionally the same as `Classes`, however in practice I will be using `Structs` as **bundles of data** while I'll be using `Classes` as **interfaces**. 
-Since `Structs` will be treated close to primitive types, their naming convention should mirror/be close to it hence `lowerCamelCase`.  
+`structs` within C++ are functionally the same as `Classes`, however in practice I will be using `structs` as **bundles of data** while I'll be using `Classes` as **interfaces**. 
+Since `structs` will be treated close to primitive types, their naming convention should mirror/be close to it hence `lowerCamelCase`.  
 
-Since `Structs` on average are instantiated more often than `Classes` and due to the fact they're simpler in function than a `Class`, their names should be one word or several shorthands. Except for exceptional cases where alternatives cannot be found, `Structs` **should be 2 short words maximum in length.**
+Since `structs` on average are instantiated more often than `Classes` and due to the fact they're simpler in function than a `Class`, their names should be one word or several shorthands. Except for exceptional cases where alternatives cannot be found, `structs` **should be 2 short words maximum in length.**
 
-`Unions` should also be `lowerCamelCase` since they possess a similar role as `Structs` within a program in most use cases. They should also use the same rules in terms of length as `Structs`.
+`unions` should also be `lowerCamelCase` since they possess a similar role as `structs` within a program in most use cases. They should also use the same rules in terms of length as `Structs`.

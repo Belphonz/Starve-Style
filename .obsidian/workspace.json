@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
+                "file": "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pointer-and-Reference-Notation"
+              "title": "Naming-Conventions-Complex-Type-Names"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
+                "file": "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointer-and-Reference-Notation"
+              "title": "Naming-Conventions-Complex-Type-Names"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
+    "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
     "docs/Global-Scope/Naming-Conventions-Constants.md",
@@ -208,7 +209,6 @@
     "docs/Global-Scope/index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Local-Scope-Within-Main/index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
     "Pasted image 20241120192941.png",
