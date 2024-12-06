@@ -34,6 +34,8 @@ Due to all these reasons, the `private` access specifier should be the 1st one w
 `Class attributes` should be first within the `private class scope`, `private class methods` coming after. Same layout for anything within `protected`.   
 Within the `public class scope`, `constructors`, `destructors`and `operator overloads`, should be written first, followed by methods unique to that class, then lastly getters and setters.  
 
+Within a `class`, every `access specifier` used should be explicitly declared.
+
 ### <u>Structs</u>
 
 `C++ structs` should follow the following layout :

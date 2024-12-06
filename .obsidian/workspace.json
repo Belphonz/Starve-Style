@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
+                "file": "docs/Complex-Type-Scope/Complex-Type-Layout.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Template-Parameters"
+              "title": "Complex-Type-Layout"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
+                "file": "docs/Complex-Type-Scope/Complex-Type-Layout.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Template-Parameters"
+              "title": "Complex-Type-Layout"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e0ca1eec86fb2cc",
+  "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Local-Scope-Within-Main/Scope.md",
