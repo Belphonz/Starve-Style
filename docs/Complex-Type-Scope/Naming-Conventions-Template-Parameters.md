@@ -8,7 +8,6 @@ The main reason for this is that I believe that they should be easy to different
 If the `template parameter` is for a general type than it should be called `T`, for anything else it should be named after its purpose.  
 Example :  
 ```cpp linenums = "1"
-
 template <typename T, size_t SIZE>
 class Array
 {
