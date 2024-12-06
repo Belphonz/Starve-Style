@@ -10,7 +10,7 @@ class GenericInterface
 ```
 
 In addition, due to the fact that the Instantiation of Classes shouldn't happen too often, the upmost clarity can be pursued with the **names of Classes being several whole words such as** : `MemoryMatrix`.   
-However, if very well known Shorthands can be used instead then they should be.
+However, if very well known shorthands can be used instead, then they should be.
 
 ### <u>Structs </u>
 
@@ -27,4 +27,4 @@ Since `structs` will be treated close to primitive types, their naming conventio
 
 Since `structs` on average are instantiated more often than `Classes` and due to the fact they're simpler in function than a `Class`, their names should be one word or several shorthands. Except for exceptional cases where alternatives cannot be found, `structs` **should be 2 short words maximum in length.**
 
-`unions` should also be `lowerCamelCase` since they possess a similar role as `structs` within a program in most use cases. They should also use the same rules in terms of length as `Structs`.
+`unions` should also be `lowerCamelCase` since they possess a similar role as `structs` within a program in most use cases. They should also use the same rules in terms of length as `structs`.
