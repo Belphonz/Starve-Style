@@ -18,8 +18,8 @@ int main()
 `Direct List Initialization` is preferred between all of the above methods.  
 There are several reasons for this.  
 The Primary reason is for consistency. `Class` and `Aggregate` `initialization` all use `{}`, having `initialization` specifically always be associated with it is useful for legibility. 
-In addition `List Initialization`, allows for `Zero-Initialization`.   
-This reduces bugs as variables `Initialized` with no values may keep garbage data.
+In addition `Direct List Initialization`, allows for `Zero-Initialization`.   
+This reduces bugs as variables initialized with no values may keep garbage data.
 
 ### <u>Multiple Initializations</u>
 
