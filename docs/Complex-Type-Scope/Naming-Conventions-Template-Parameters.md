@@ -6,7 +6,7 @@ The main reason for this is that I believe that they should be easy to different
 
 `typename` should be preferred over `class` for `template parameters`, for the simple reason that I find them easier to understand.
 If the `template parameter` is for a general type than it should be called `T`, for anything else it should be named after its purpose.  
-Example :
+Example :  
 ```cpp linenums = "1"
 
 template <typename T, size_t SIZE>
