@@ -17,7 +17,7 @@ private:
 
 ### <u>Protected</u>
 
-If there is a `protected specifier`, then `attributes under the protected class scope` should be `_lowerCamelCase` and the `private attributes` should be `__lowerCamelCase`, methods should be  `_UpperCamelCase` and `private methods` should be  `__UpperCamelCase` .
+If there is a `protected specifier`, then `attributes under the protected class scope` should be `_lowerCamelCase` and the `private attributes` should be `__lowerCamelCase`, methods should be `_UpperCamelCase` and `private methods` should be `__UpperCamelCase`.
 Example :  
 ``` cpp linenums="1"
 class GenericInterface 
