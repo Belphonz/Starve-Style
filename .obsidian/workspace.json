@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global-Scope/Naming-Conventions-Constants.md",
+                "file": "docs/Local-Scope-Within-Main/Initialization.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Constants"
+              "title": "Initialization"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Global-Scope/Header-Guard.md",
     "docs/Global-Scope/Naming-Conventions-Constants.md",
+    "docs/Global-Scope/Header-Guard.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
