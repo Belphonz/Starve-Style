@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
+                "file": "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pointer-and-Reference-Notation"
+              "title": "Naming-Conventions-Template-Parameters"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
-    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
+    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
@@ -233,7 +234,6 @@
     "docs/blog/index.md",
     "docs/blog/posts/hello-world.md",
     "docs/Topic 1/Note 2.md",
-    "docs/Topic 1/Note 1.md",
-    "docs/Features/Mermaid Diagrams.md"
+    "docs/Topic 1/Note 1.md"
   ]
 }
