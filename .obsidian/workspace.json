@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex-Type-Scope/index.md",
+                "file": "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Naming-Conventions-Type-Aliases"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Global-Scope/index.md",
+    "docs/Global-Scope/Naming-Conventions-Constants.md",
+    "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
     "docs/Complex-Type-Scope/index.md",
+    "docs/Global-Scope/index.md",
     "docs/Local-Scope-Within-Main/index.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
@@ -207,7 +209,6 @@
     "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
-    "docs/Global-Scope/Naming-Conventions-Constants.md",
     "docs/Global-Scope/Header-Guard.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
@@ -233,7 +234,6 @@
     "assets/logo.png",
     "docs/blog/index.md",
     "docs/blog/posts/hello-world.md",
-    "docs/Topic 1/Note 2.md",
-    "docs/Topic 1/Note 1.md"
+    "docs/Topic 1/Note 2.md"
   ]
 }
