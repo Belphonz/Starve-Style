@@ -5,10 +5,11 @@ theme:
   name: 'material'
   palette:
     scheme: slate
+    primary: cyan
+    accent: teal
   logo: assets/logo.png
   favicon: assets/logo.png
-  primary: cyan
-  accent: teal
+  language: en
   features:
     - navigation.footer
     - navigation.path
