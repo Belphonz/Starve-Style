@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Type-Aliases"
+              "title": "index"
             }
           }
         ]
@@ -196,10 +196,10 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
-    "docs/Global-Scope/Naming-Conventions-Constants.md",
-    "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
-    "docs/Complex-Type-Scope/index.md",
     "docs/Global-Scope/index.md",
+    "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
+    "docs/Global-Scope/Naming-Conventions-Constants.md",
+    "docs/Complex-Type-Scope/index.md",
     "docs/Local-Scope-Within-Main/index.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",

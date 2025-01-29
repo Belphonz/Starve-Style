@@ -17,8 +17,7 @@ This should be kept in mind not only for readers of this but also to myself, wit
 
 - **A topic per page**
 - **Topics are organised within Scopes**
-- Each Page discussing an aspect of C++ Syntax and the rules that should be followed 
-- <s>The Reasons for each Syntax will be stated in prose rather than being separated into specific sections.  The aim is to increase understanding as the style should be internalised rather than blindly followed (This is Subject to Change).</s>
+- Each Page discussing an aspect of C++ Syntax and the rules that should be followed
 
 ### <u>What is a Topic?</u>
 
