@@ -6,7 +6,7 @@ theme:
   palette:
     scheme: slate
     primary: white
-    accent: teal
+    accent: indigo
   logo: assets/logo.png
   favicon: assets/logo.png
   language: en
