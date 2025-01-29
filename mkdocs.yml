@@ -16,6 +16,8 @@ theme:
     - navigation.instant.progress
     - navigation.indexes
     - content.code.copy
+    - navigation.tabs
+    - navigation.tabs.sticky
 nav:
   - index.md
   - Global Scope :
