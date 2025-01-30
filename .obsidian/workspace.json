@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Loop-Index"
+              "title": "index"
             }
           }
         ]
@@ -92,8 +92,28 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "885b644733a16f58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -107,25 +127,6 @@
         "id": "e34c977ac4f2b384",
         "type": "tabs",
         "children": [
-          {
-            "id": "885b644733a16f58",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "docs/Complex Type Scope/Naming Conventions-Attributes and Methods.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Naming Conventions-Attributes and Methods"
-            }
-          },
           {
             "id": "d16175ab47811b80",
             "type": "leaf",
@@ -176,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,6 +197,7 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
@@ -213,7 +215,6 @@
     "docs/Global-Scope/index.md",
     "docs/Local-Scope-Within-Main/index.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
-    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
     "Pasted image 20241120192941.png",
     "docs/Function-Scope/index.md",
