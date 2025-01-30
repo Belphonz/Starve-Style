@@ -4,8 +4,8 @@ Within C++, `templates` should generally only be restricted to `Classes` and the
 `Template Parameters` should be written in `SCREAMING_SNAKE_CASE`.  
 The main reason for this is that I believe that they should be easy to differentiate from variables initialized within function scope.   
 
-`typename` should be preferred over `class` for `template parameters`, for the simple reason that I find them easier to understand.
-If the `template parameter` is for a general type than it should be called `T`, for anything else it should be named after its purpose.  
+`typename` should be preferred over `class` for `template parameters`, for the simple reason that I find it more relevant a term.  
+If the `template parameter` is for a general type than it should be called `T`, for anything else it should be named after its purpose. For any subsequent types they should be named `TT`, `TTT` etc.  
 Example :  
 ``` cpp linenums="1"
 template <typename T, size_t SIZE>

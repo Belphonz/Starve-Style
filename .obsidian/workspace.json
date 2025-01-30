@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
+                "file": "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Complex-Type-Names"
+              "title": "Naming-Conventions-Loop-Index"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
+    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex-Type-Scope/index.md",
     "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Local-Scope-Within-Main/Scope.md",
@@ -208,10 +212,6 @@
     "docs/index.md",
     "docs/Global-Scope/index.md",
     "docs/Local-Scope-Within-Main/index.md",
-    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",

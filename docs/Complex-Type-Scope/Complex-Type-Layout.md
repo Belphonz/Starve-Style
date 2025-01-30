@@ -23,8 +23,10 @@ public:
 }
 ```
 
-The `Private Access specifier` should be the 1st declared within a Class.   
-While there is a lot of debate on whether the `private` or `public` specifier should come first, it is my belief that if users of my libraries or code are investigating the internals it is from an **inquisitive standpoint to see how things are working internally** rather than to check all the methods they can interact with in the interface as documentation should suffice in said cases.  
+The `Private Access specifier` should be the 1st declared within a Class.  
+
+While there is a lot of debate on whether the `private` or `public` specifier should come first, it is my belief that if users of my libraries or code are investigating the internals it is from an **inquisitive standpoint to see how things are working internally** rather than to check all the methods they can interact within the interface as documentation should suffice in said cases.  
+
 In addition, for a Class where the internals should be assumed unread by the users, I prefer to facilitate the lives of the programmer/s who worked on the project.   
 **Seeing the internal `attributes` first allows readers to get into the headspace of who wrote it when it was written,** which is important for those modifying the project after a long absence and those wishing to learn from it.  
 Due to all these reasons, the `private` access specifier should be the 1st one within the `Class` layout.
