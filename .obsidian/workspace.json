@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
+                "file": "docs/Complex-Type-Scope/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pointer-and-Reference-Notation"
+              "title": "index"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
@@ -210,7 +211,6 @@
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
