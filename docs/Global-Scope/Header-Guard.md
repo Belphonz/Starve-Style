@@ -4,7 +4,8 @@ The Header Guard is a directive used to ensure that header files are only copied
 While `#pragma once` can be used, `#ifndef` will be preferred for a multitude of reasons :  
 
 First off, and while it is a small reason it must be stated, some compilers do not support `#pragma once`.   
-In Addition, `#ifndef` allows for more on hands control of what is included for example including a mock header who uses the same `#ifndef` as another more complex class.  
+In Addition, `#ifndef` allows for a more "hands on control" of what is included.
+For example, including a mock header who uses the same `#ifndef` as another more complex class.  
 Personally, I find it increases readability and makes headers easier to navigate as the guard describes the file name generally.  
 Finally, `#ifndef` is still the standard while `#prgama once` isn't.
 
