@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global-Scope/Naming-Conventions-Namespaces.md",
+                "file": "docs/Global-Scope/Naming-Conventions-Constants.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Namespaces"
+              "title": "Naming-Conventions-Constants"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
+    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Global-Scope/Header-Guard.md",
     "docs/index.md",
     "docs/Global-Scope/index.md",
-    "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
     "docs/Global-Scope/Naming-Conventions-Constants.md",
     "docs/Complex-Type-Scope/index.md",
     "docs/Local-Scope-Within-Main/index.md",
@@ -212,7 +213,6 @@
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
-    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
     "Pasted image 20241120192941.png",
