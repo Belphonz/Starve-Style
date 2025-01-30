@@ -17,9 +17,9 @@ int main()
 
 `Direct List Initialization` is preferred between all of the above methods.  
 There are several reasons for this.  
-The Primary reason is for consistency. `Class` and `Aggregate` `initialization` all use `{}`, having `initialization` specifically always be associated with it is useful for legibility. 
-In addition `Direct List Initialization`, allows for `Zero-Initialization`.   
-This reduces bugs as variables `initialised`  with no values may keep garbage data.
+The Primary reason is for consistency. `Class` and `Aggregate initialization` all use `{}`, having `initialization` specifically always be associated with it is useful for legibility.  
+In addition `Direct List Initialization` allows for `Zero-Initialization`.   
+This reduces bugs as variables `initialised` with no values may keep garbage data.
 
 ### <u>Multiple Initializations</u>
 
@@ -31,6 +31,6 @@ int main()
 	int x{}, y{};
 }
 ```
-For legibility’s sake this practice will be strictly banned within this coding guideline.
+For legibility’s sake this practice will be strictly banned within this coding guideline.  
 While I find it reasonable to use this syntax for variables such as `x,y,z` like the above example, it gets quickly out of hand the moment you use variables whose names exceed a singular character in length.   
 Due to the aforementioned reason and for the sake of consistency, each `initialised` variable should occupy a new line.
