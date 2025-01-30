@@ -2,8 +2,7 @@
 
 Scope in C++ is marked by `{}`, the categories of this code guideline encapsulate the scopes which are relevant within the majority of Projects and Libraries.  
 To properly delimitate different scopes within a given project,  
-**All Curly Brackets delimitating Scopes should occupy a new line by itself.**
-The Only Exception to this are single statement flow control scopes.
+**All Curly Brackets delimitating Scopes should occupy a new line by itself.**  
 Example :
 ``` cpp linenums="1"
 void foo()

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local-Scope-Within-Main/Initialization.md",
+                "file": "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Initialization"
+              "title": "Pointer-and-Reference-Notation"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "1e0ca1eec86fb2cc",
   "lastOpenFiles": [
+    "docs/Local-Scope-Within-Main/Scope.md",
+    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
+    "docs/Local-Scope-Within-Main/Initialization.md",
     "docs/Global-Scope/Naming-Conventions-Constants.md",
     "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
@@ -209,9 +212,6 @@
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
-    "docs/Local-Scope-Within-Main/Scope.md",
-    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
-    "docs/Local-Scope-Within-Main/Initialization.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
