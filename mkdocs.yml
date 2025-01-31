@@ -25,7 +25,7 @@ nav:
     - Global-Scope/Header-Guard.md
     - Global-Scope/Include-Directives-Layout.md
     - Global-Scope/Naming-Conventions-Namespaces.md
-    - Global-Scope/Naming-Conventions-Constants.md
+    - Global-Scope/Global-Variables.md
   - Local Scope Within Main :
     - Local-Scope-Within-Main/index.md
     - Local-Scope-Within-Main/Initialization.md

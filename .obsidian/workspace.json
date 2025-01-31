@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "75c36c53bf7d58ac",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e0ca1eec86fb2cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          }
-        ]
-      },
-      {
         "id": "acf99f52fef48608",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex-Type-Scope/Complex-Type-Layout.md",
-                "mode": "preview",
-                "source": false
+                "file": "docs/Global-Scope/Global-Variables.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Complex-Type-Layout"
+              "title": "Global-Variables"
             }
           }
         ]
@@ -99,8 +79,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
-                "collapseAll": false,
+                "file": "docs/Global-Scope/Global-Variables.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -109,11 +89,10 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Global-Variables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,26 +174,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e0ca1eec86fb2cc",
+  "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
+    "docs/Global-Scope/Include-Directives-Layout.md",
+    "docs/Global-Scope/Header-Guard.md",
+    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
+    "docs/Global-Scope/Global-Variables.md",
+    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
+    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
+    "docs/index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex-Type-Scope/index.md",
     "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Local-Scope-Within-Main/Scope.md",
-    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
-    "docs/Global-Scope/Naming-Conventions-Constants.md",
     "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
-    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
-    "docs/Global-Scope/Header-Guard.md",
-    "docs/index.md",
     "docs/Global-Scope/index.md",
     "docs/Local-Scope-Within-Main/index.md",
-    "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
     "Pasted image 20241120192941.png",
     "docs/Function-Scope/index.md",

@@ -1,4 +1,4 @@
-# Naming Conventions : Constants
+# Global Variables
 
 Global Constant variables should be written in `SCREAMING_SNAKE_CASE`.
 They should always be within a namespace.  
