@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Local-Scope-Within-Main/Casting.md",
+                "file": "docs/Global-Scope/File-And-Folder-Naming.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Casting"
+              "title": "File-And-Folder-Naming"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 378.5
   },
   "right": {
     "id": "7d0532dd05177e41",
@@ -176,8 +176,15 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Function-Scope/Function-Parameters-Layout.md",
+    "docs/Global-Scope/folder.md",
+    "docs/Global-Scope/File-And-Folder-Naming.md",
+    "docs/Scope-in-Flow-Control-Statements/Multi-Condition-If-Statements.md",
+    "docs/Local-Scope-Within-Main/Initialization.md",
+    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
+    "docs/Local-Scope-Within-Main/Scope.md",
+    "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Local-Scope-Within-Main/Casting.md",
+    "docs/Function-Scope/Function-Parameters-Layout.md",
     "docs/Function-Scope/Naming-Conventions-Function-Parameters.md",
     "docs/Function-Scope/Naming-Conventions-Functions.md",
     "docs/Function-Scope/Lambda-Layout.md",
@@ -189,20 +196,13 @@
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
-    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
     "docs/Complex-Type-Scope/index.md",
-    "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
-    "docs/Local-Scope-Within-Main/Scope.md",
-    "docs/Local-Scope-Within-Main/Initialization.md",
     "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
     "docs/Global-Scope/index.md",
-    "docs/Local-Scope-Within-Main/index.md",
-    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
     "Pasted image 20241120192941.png",
-    "docs/Scope-in-Flow-Control-Statements/index.md",
     "mkdocs.yml",
     "docs/stylesheets/extra.css",
     "docs/Scope-in-Flow-Control-Statements",
