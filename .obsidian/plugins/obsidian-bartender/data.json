@@ -52,6 +52,10 @@
       "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
       "docs/Local-Scope-Within-Main/Scope.md",
       "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md"
+    ],
+    "docs/Function-Scope": [
+      "docs/Function-Scope/index.md",
+      "docs/Function-Scope/Naming-Conventions-Function-Parameters.md"
     ]
   },
   "actionBarOrder": {},

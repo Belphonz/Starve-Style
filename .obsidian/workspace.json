@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global-Scope/Global-Variables.md",
+                "file": "docs/Function-Scope/Function-Parameters-Layout.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Global-Variables"
+              "title": "Function-Parameters-Layout"
             }
           }
         ]
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5
   },
   "right": {
     "id": "7d0532dd05177e41",
@@ -176,11 +176,16 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
+    "docs/Function-Scope/Naming-Conventions-Function-Parameters.md",
+    "docs/Function-Scope/Naming-Conventions-Functions.md",
+    "docs/Function-Scope/Function-Parameters-Layout.md",
+    "docs/Function-Scope/Lambda-Layout.md",
+    "docs/Function-Scope/index.md",
+    "docs/Global-Scope/Global-Variables.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Global-Scope/Header-Guard.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Global-Scope/Global-Variables.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
@@ -196,7 +201,6 @@
     "docs/Local-Scope-Within-Main/index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Instantiation.md",
     "Pasted image 20241120192941.png",
-    "docs/Function-Scope/index.md",
     "docs/Scope-in-Flow-Control-Statements/index.md",
     "mkdocs.yml",
     "docs/stylesheets/extra.css",
@@ -207,13 +211,9 @@
     "docs/Complex-Type-Scope",
     "docs/Local-Scope-Within-Main",
     "docs/stylesheets/Global Scope",
-    "docs/Introduction.md",
     "docs/assets/logo.png",
     "docs/stylesheets/New Rich Text Document.rtf",
     "docs/stylesheets/New shortcut.lnk",
-    "assets/logo.png",
-    "docs/blog/index.md",
-    "docs/blog/posts/hello-world.md",
-    "docs/Topic 1/Note 2.md"
+    "assets/logo.png"
   ]
 }
