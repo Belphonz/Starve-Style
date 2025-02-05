@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Function-Scope/Function-Parameters-Layout.md",
+                "file": "docs/Local-Scope-Within-Main/Casting.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Function-Parameters-Layout"
+              "title": "Casting"
             }
           }
         ]
@@ -176,9 +176,10 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
+    "docs/Function-Scope/Function-Parameters-Layout.md",
+    "docs/Local-Scope-Within-Main/Casting.md",
     "docs/Function-Scope/Naming-Conventions-Function-Parameters.md",
     "docs/Function-Scope/Naming-Conventions-Functions.md",
-    "docs/Function-Scope/Function-Parameters-Layout.md",
     "docs/Function-Scope/Lambda-Layout.md",
     "docs/Function-Scope/index.md",
     "docs/Global-Scope/Global-Variables.md",
@@ -206,7 +207,6 @@
     "docs/stylesheets/extra.css",
     "docs/Scope-in-Flow-Control-Statements",
     "docs/Function-Scope",
-    "README.md",
     "docs/Global-Scope",
     "docs/Complex-Type-Scope",
     "docs/Local-Scope-Within-Main",
