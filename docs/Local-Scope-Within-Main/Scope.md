@@ -13,6 +13,9 @@ void foo()
 		std::cout << "Finshed Checks!";
 	}
 	
-	if (check) { std::cout << "Code Ran"; }
+	if (check) 
+	{ 
+		std::cout << "Code Ran"; 
+	}
 }
 ```
