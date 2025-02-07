@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Complex-Type-Scope/Complex-Type-Layout.md",
+                "file": "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Complex-Type-Layout"
+              "title": "Naming-Conventions-Loop-Index"
             }
           }
         ]
@@ -176,8 +176,14 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
+    "docs/Function-Scope/Naming-Conventions-Functions.md",
+    "docs/Function-Scope/Lambda-Layout.md",
+    "docs/Function-Scope/index.md",
+    "docs/Function-Scope/Naming-Conventions-Function-Parameters.md",
+    "docs/Function-Scope/Function-Parameters-Layout.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
     "docs/Complex-Type-Scope/Complex-Type-Layout.md",
+    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex-Type-Scope/index.md",
     "docs/Local-Scope-Within-Main/Casting.md",
@@ -188,18 +194,12 @@
     "docs/Scope-in-Flow-Control-Statements/Multi-Condition-If-Statements.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
-    "docs/Function-Scope/Function-Parameters-Layout.md",
-    "docs/Function-Scope/Naming-Conventions-Function-Parameters.md",
-    "docs/Function-Scope/Naming-Conventions-Functions.md",
-    "docs/Function-Scope/Lambda-Layout.md",
-    "docs/Function-Scope/index.md",
     "docs/Global-Scope/Global-Variables.md",
     "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Global-Scope/Header-Guard.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/index.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
     "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
     "docs/Global-Scope/index.md",
     "Pasted image 20241120192941.png",
