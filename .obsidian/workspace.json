@@ -187,8 +187,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c1fa617758c3d14b",
+  "active": "dea9433bcfcaac7e",
   "lastOpenFiles": [
+    "docs/Global-Scope/File-And-Folder-Naming.md",
     "docs/Scope_In_Flow_Control_Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope_In_Flow_Control_Statements/Multi-Condition-If-Statements.md",
     "docs/Scope_In_Flow_Control_Statements/index.md",
@@ -218,7 +219,6 @@
     "docs/Complex_Type_Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex_Type_Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Complex_Type_Scope/index.md",
-    "docs/Complex_Type_Scope/Complex-Type-Layout.md",
     "docs/Complex_Type_Scope",
     "Pasted image 20241120192941.png",
     "mkdocs.yml",
