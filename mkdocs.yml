@@ -26,6 +26,7 @@ nav:
     - Global-Scope/Include-Directives-Layout.md
     - Global-Scope/Naming-Conventions-Namespaces.md
     - Global-Scope/Global-Variables.md
+    - Global-Scope/File-And-Folder-Naming.md
   - Local Scope Within Main :
     - Local-Scope-Within-Main/index.md
     - Local-Scope-Within-Main/Initialization.md
