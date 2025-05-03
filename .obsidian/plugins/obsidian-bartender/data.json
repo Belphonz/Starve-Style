@@ -5,11 +5,6 @@
     "docs": [
       "docs/assets",
       "docs/index.md",
-      "docs/Global-Scope",
-      "docs/Local-Scope-Within-Main",
-      "docs/Complex-Type-Scope",
-      "docs/Function-Scope",
-      "docs/Scope-in-Flow-Control-Statements",
       "docs/stylesheets"
     ],
     "": [
@@ -18,45 +13,8 @@
       "docs",
       "README.md"
     ],
-    "docs/Class Scope": [
-      "docs/Complex-Type-Scope/index.md",
-      "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
-      "docs/Complex-Type-Scope/Complex-Type-Layout.md",
-      "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md"
-    ],
-    "docs/Scope in Flow Control": [
-      "docs/Scope-in-Flow-Control-Statements/index.md",
-      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md"
-    ],
-    "docs/Global-Scope": [
-      "docs/Global-Scope/index.md",
-      "docs/Global-Scope/Header-Guard.md",
-      "docs/Global-Scope/Include-Directives-Layout.md",
-      "docs/Global-Scope/Naming-Conventions-Namespaces.md",
-      "docs/Global-Scope/Global-Variables.md",
-      "docs/Local-Scope-Within-Main/Scope.md"
-    ],
-    "docs/Complex-Type-Scope": [
-      "docs/Complex-Type-Scope/index.md",
-      "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
-      "docs/Complex-Type-Scope/Complex-Type-Layout.md",
-      "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md"
-    ],
-    "docs/Scope-in-Flow-Control-Statements": [
-      "docs/Scope-in-Flow-Control-Statements/index.md",
-      "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md"
-    ],
-    "docs/Local-Scope-Within-Main": [
-      "docs/Local-Scope-Within-Main/index.md",
-      "docs/Local-Scope-Within-Main/Initialization.md",
-      "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
-      "docs/Local-Scope-Within-Main/Scope.md",
-      "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md"
-    ],
-    "docs/Function-Scope": [
-      "docs/Function-Scope/index.md",
-      "docs/Function-Scope/Naming-Conventions-Function-Parameters.md"
-    ]
+    "docs/Class Scope": [],
+    "docs/Scope in Flow Control": []
   },
   "actionBarOrder": {},
   "autoHide": false,

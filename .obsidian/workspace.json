@@ -11,14 +11,10 @@
             "id": "39b080bec21f3e6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Global-Scope/File-And-Folder-Naming.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "File-And-Folder-Naming"
+              "title": "New tab"
             }
           }
         ]
@@ -31,14 +27,10 @@
             "id": "dea9433bcfcaac7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Global-Scope/File-And-Folder-Naming.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "File-And-Folder-Naming"
+              "title": "New tab"
             }
           }
         ]
@@ -195,46 +187,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39b080bec21f3e6b",
+  "active": "c1fa617758c3d14b",
   "lastOpenFiles": [
-    "docs/Global-Scope/Header-Guard.md",
-    "docs/Global-Scope/File-And-Folder-Naming.md",
-    "docs/Global-Scope/Global-Variables.md",
-    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
-    "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
-    "docs/Local-Scope-Within-Main/Initialization.md",
-    "docs/Local-Scope-Within-Main/Casting.md",
-    "docs/Global-Scope/index.md",
-    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
-    "docs/Global-Scope/Include-Directives-Layout.md",
-    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
-    "docs/Function-Scope/Naming-Conventions-Functions.md",
-    "docs/Function-Scope/Lambda-Layout.md",
-    "docs/Function-Scope/index.md",
-    "docs/Function-Scope/Naming-Conventions-Function-Parameters.md",
-    "docs/Function-Scope/Function-Parameters-Layout.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Template-Parameters.md",
-    "docs/Complex-Type-Scope/Complex-Type-Layout.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
-    "docs/Complex-Type-Scope/index.md",
-    "docs/Local-Scope-Within-Main/Scope.md",
-    "docs/Global-Scope/folder.md",
-    "docs/Scope-in-Flow-Control-Statements/Multi-Condition-If-Statements.md",
-    "docs/index.md",
-    "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
+    "docs/Scope_In_Flow_Control_Statements/Naming-Conventions-Loop-Index.md",
+    "docs/Scope_In_Flow_Control_Statements/Multi-Condition-If-Statements.md",
+    "docs/Scope_In_Flow_Control_Statements/index.md",
+    "docs/Scope_In_Flow_Control_Statements",
+    "docs/Local_Scope_Within_Main/Pointer-and-Reference-Notation.md",
+    "docs/Local_Scope_Within_Main/Scope.md",
+    "docs/Local_Scope_Within_Main/Naming-Conventions-Variables.md",
+    "docs/Local_Scope_Within_Main/Initialization.md",
+    "docs/Local_Scope_Within_Main/index.md",
+    "docs/Local_Scope_Within_Main/Casting.md",
+    "docs/Local_Scope_Within_Main",
+    "docs/Global_Scope/Naming-Conventions-Type-Aliases.md",
+    "docs/Global_Scope/Naming-Conventions-Namespaces.md",
+    "docs/Global_Scope/index.md",
+    "docs/Global_Scope/Include-Directives-Layout.md",
+    "docs/Global_Scope/Header-Guard.md",
+    "docs/Global_Scope/Global-Variables.md",
+    "docs/Global_Scope/File-And-Folder-Naming.md",
+    "docs/Global_Scope",
+    "docs/Function_Scope/Lambda-Layout.md",
+    "docs/Function_Scope/Naming-Conventions-Function-Parameters.md",
+    "docs/Function_Scope/Naming-Conventions-Functions.md",
+    "docs/Function_Scope/Function-Parameters-Layout.md",
+    "docs/Function_Scope/index.md",
+    "docs/Function_Scope",
+    "docs/Complex_Type_Scope/Naming-Conventions-Template-Parameters.md",
+    "docs/Complex_Type_Scope/Naming-Conventions-Complex-Type-Names.md",
+    "docs/Complex_Type_Scope/Naming-Conventions-Attributes-and-Methods.md",
+    "docs/Complex_Type_Scope/index.md",
+    "docs/Complex_Type_Scope/Complex-Type-Layout.md",
+    "docs/Complex_Type_Scope",
     "Pasted image 20241120192941.png",
     "mkdocs.yml",
     "docs/stylesheets/extra.css",
     "docs/Scope-in-Flow-Control-Statements",
     "docs/Function-Scope",
     "docs/Global-Scope",
-    "docs/Complex-Type-Scope",
-    "docs/Local-Scope-Within-Main",
-    "docs/stylesheets/Global Scope",
     "docs/assets/logo.png",
-    "docs/stylesheets/New Rich Text Document.rtf",
-    "docs/stylesheets/New shortcut.lnk",
     "assets/logo.png"
   ]
 }
