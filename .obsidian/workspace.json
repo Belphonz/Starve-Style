@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global_Scope/File-And-Folder-Naming.md",
+                "file": "docs/Function_Scope/Naming-Conventions-Functions.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "File-And-Folder-Naming"
+              "title": "Naming-Conventions-Functions"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Global_Scope/File-And-Folder-Naming.md",
+                "file": "docs/Function_Scope/Naming-Conventions-Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File-And-Folder-Naming"
+              "title": "Naming-Conventions-Functions"
             }
           }
         ]
@@ -195,8 +195,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "39b080bec21f3e6b",
+  "active": "dea9433bcfcaac7e",
   "lastOpenFiles": [
+    "docs/Global_Scope/File-And-Folder-Naming.md",
+    "docs/Function_Scope/Naming-Conventions-Functions.md",
+    "docs/Function_Scope/Lambda-Layout.md",
     "docs/Global_Scope/Global-Variables.md",
     "docs/Global_Scope/Include-Directives-Layout.md",
     "docs/Global_Scope/Naming-Conventions-Namespaces.md",
@@ -206,7 +209,6 @@
     "docs/Complex_Type_Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex_Type_Scope/Naming-Conventions-Template-Parameters.md",
     "docs/Complex_Type_Scope/Naming-Conventions-Attributes-and-Methods.md",
-    "docs/Global_Scope/File-And-Folder-Naming.md",
     "docs/Global-Scope/File-And-Folder-Naming.md",
     "docs/Scope_In_Flow_Control_Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope_In_Flow_Control_Statements/Multi-Condition-If-Statements.md",
@@ -220,9 +222,7 @@
     "docs/Local_Scope_Within_Main/Casting.md",
     "docs/Local_Scope_Within_Main",
     "docs/Global_Scope",
-    "docs/Function_Scope/Lambda-Layout.md",
     "docs/Function_Scope/Naming-Conventions-Function-Parameters.md",
-    "docs/Function_Scope/Naming-Conventions-Functions.md",
     "docs/Function_Scope/Function-Parameters-Layout.md",
     "docs/Function_Scope/index.md",
     "docs/Function_Scope",
