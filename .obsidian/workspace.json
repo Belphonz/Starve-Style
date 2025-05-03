@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/Global_Scope/File-And-Folder-Naming.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "File-And-Folder-Naming"
@@ -197,9 +197,16 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Global_Scope/File-And-Folder-Naming.md",
+    "docs/Global_Scope/Global-Variables.md",
+    "docs/Global_Scope/Include-Directives-Layout.md",
+    "docs/Global_Scope/Naming-Conventions-Namespaces.md",
     "docs/Global_Scope/Naming-Conventions-Type-Aliases.md",
     "docs/Global_Scope/index.md",
+    "docs/Global_Scope/Header-Guard.md",
+    "docs/Complex_Type_Scope/Naming-Conventions-Complex-Type-Names.md",
+    "docs/Complex_Type_Scope/Naming-Conventions-Template-Parameters.md",
+    "docs/Complex_Type_Scope/Naming-Conventions-Attributes-and-Methods.md",
+    "docs/Global_Scope/File-And-Folder-Naming.md",
     "docs/Global-Scope/File-And-Folder-Naming.md",
     "docs/Scope_In_Flow_Control_Statements/Naming-Conventions-Loop-Index.md",
     "docs/Scope_In_Flow_Control_Statements/Multi-Condition-If-Statements.md",
@@ -212,10 +219,6 @@
     "docs/Local_Scope_Within_Main/index.md",
     "docs/Local_Scope_Within_Main/Casting.md",
     "docs/Local_Scope_Within_Main",
-    "docs/Global_Scope/Naming-Conventions-Namespaces.md",
-    "docs/Global_Scope/Include-Directives-Layout.md",
-    "docs/Global_Scope/Header-Guard.md",
-    "docs/Global_Scope/Global-Variables.md",
     "docs/Global_Scope",
     "docs/Function_Scope/Lambda-Layout.md",
     "docs/Function_Scope/Naming-Conventions-Function-Parameters.md",
@@ -223,9 +226,6 @@
     "docs/Function_Scope/Function-Parameters-Layout.md",
     "docs/Function_Scope/index.md",
     "docs/Function_Scope",
-    "docs/Complex_Type_Scope/Naming-Conventions-Template-Parameters.md",
-    "docs/Complex_Type_Scope/Naming-Conventions-Complex-Type-Names.md",
-    "docs/Complex_Type_Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Complex_Type_Scope/index.md",
     "docs/Complex_Type_Scope",
     "Pasted image 20241120192941.png",
