@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
+                "file": "docs/Global-Scope/File-And-Folder-Naming.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Loop-Index"
+              "title": "File-And-Folder-Naming"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,6 +177,7 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
+    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Function-Scope/Naming-Conventions-Functions.md",
     "docs/Function-Scope/Lambda-Layout.md",
     "docs/Function-Scope/index.md",
@@ -199,7 +201,6 @@
     "docs/Global-Scope/Header-Guard.md",
     "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/index.md",
-    "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
     "docs/Global-Scope/index.md",
     "Pasted image 20241120192941.png",
