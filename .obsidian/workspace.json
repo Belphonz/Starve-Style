@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "676d06cdf4c21a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea9433bcfcaac7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Global-Scope/File-And-Folder-Naming.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "File-And-Folder-Naming"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,6 +197,15 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
+    "docs/Global-Scope/Global-Variables.md",
+    "docs/Global-Scope/File-And-Folder-Naming.md",
+    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
+    "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
+    "docs/Local-Scope-Within-Main/Initialization.md",
+    "docs/Local-Scope-Within-Main/Casting.md",
+    "docs/Global-Scope/index.md",
+    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
+    "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Scope-in-Flow-Control-Statements/Naming-Conventions-Loop-Index.md",
     "docs/Function-Scope/Naming-Conventions-Functions.md",
     "docs/Function-Scope/Lambda-Layout.md",
@@ -188,21 +217,12 @@
     "docs/Complex-Type-Scope/Naming-Conventions-Attributes-and-Methods.md",
     "docs/Complex-Type-Scope/Naming-Conventions-Complex-Type-Names.md",
     "docs/Complex-Type-Scope/index.md",
-    "docs/Local-Scope-Within-Main/Casting.md",
-    "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Local-Scope-Within-Main/Scope.md",
-    "docs/Global-Scope/File-And-Folder-Naming.md",
     "docs/Global-Scope/folder.md",
     "docs/Scope-in-Flow-Control-Statements/Multi-Condition-If-Statements.md",
-    "docs/Local-Scope-Within-Main/Initialization.md",
-    "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
-    "docs/Global-Scope/Global-Variables.md",
-    "docs/Global-Scope/Include-Directives-Layout.md",
     "docs/Global-Scope/Header-Guard.md",
-    "docs/Global-Scope/Naming-Conventions-Namespaces.md",
     "docs/index.md",
     "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
-    "docs/Global-Scope/index.md",
     "Pasted image 20241120192941.png",
     "mkdocs.yml",
     "docs/stylesheets/extra.css",
