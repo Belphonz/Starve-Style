@@ -53,6 +53,8 @@ extra:
       link: https://x.com/AethelCrown
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/aethel-crown/
+    - icon: fontawesome/solid/enevelope
+      link: https://www.linkedin.com/in/aethel-crown/
 extra_css:
   - stylesheets/extra.css
 
