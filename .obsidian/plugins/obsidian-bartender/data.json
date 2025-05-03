@@ -5,7 +5,12 @@
     "docs": [
       "docs/assets",
       "docs/index.md",
-      "docs/stylesheets"
+      "docs/stylesheets",
+      "docs/Global_Scope",
+      "docs/Local_Scope_Within_Main",
+      "docs/Complex_Type_Scope",
+      "docs/Function_Scope",
+      "docs/Scope_In_Flow_Control_Statements"
     ],
     "": [
       "LICENSE",
