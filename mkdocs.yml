@@ -54,7 +54,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/aethel-crown/
     - icon: fontawesome/solid/envelope
-      link: mailto:<aethel.crown@gmail.copm>
+      link: mailto:<aethel.crown@gmail.com>
 extra_css:
   - stylesheets/extra.css
 
