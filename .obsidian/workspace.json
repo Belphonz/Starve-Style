@@ -197,8 +197,9 @@
   },
   "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Global-Scope/Global-Variables.md",
+    "docs/Global-Scope/Header-Guard.md",
     "docs/Global-Scope/File-And-Folder-Naming.md",
+    "docs/Global-Scope/Global-Variables.md",
     "docs/Local-Scope-Within-Main/Naming-Conventions-Variables.md",
     "docs/Local-Scope-Within-Main/Pointer-and-Reference-Notation.md",
     "docs/Local-Scope-Within-Main/Initialization.md",
@@ -220,7 +221,6 @@
     "docs/Local-Scope-Within-Main/Scope.md",
     "docs/Global-Scope/folder.md",
     "docs/Scope-in-Flow-Control-Statements/Multi-Condition-If-Statements.md",
-    "docs/Global-Scope/Header-Guard.md",
     "docs/index.md",
     "docs/Global-Scope/Naming-Conventions-Type-Aliases.md",
     "Pasted image 20241120192941.png",
