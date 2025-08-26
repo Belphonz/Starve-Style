@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Function_Scope/Naming-Conventions-Functions.md",
+                "file": "docs/Local_Scope_Within_Main/Initialization.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Functions"
+              "title": "Initialization"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Function_Scope/Naming-Conventions-Functions.md",
+                "file": "docs/Local_Scope_Within_Main/Initialization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naming-Conventions-Functions"
+              "title": "Initialization"
             }
           }
         ]
@@ -195,10 +195,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dea9433bcfcaac7e",
+  "active": "39b080bec21f3e6b",
   "lastOpenFiles": [
-    "docs/Global_Scope/File-And-Folder-Naming.md",
     "docs/Function_Scope/Naming-Conventions-Functions.md",
+    "docs/Local_Scope_Within_Main/Initialization.md",
+    "docs/Local_Scope_Within_Main/Casting.md",
+    "docs/Function_Scope/Function-Parameters-Layout.md",
+    "docs/Function_Scope/index.md",
+    "docs/Global_Scope/File-And-Folder-Naming.md",
     "docs/Function_Scope/Lambda-Layout.md",
     "docs/Global_Scope/Global-Variables.md",
     "docs/Global_Scope/Include-Directives-Layout.md",
@@ -217,14 +221,10 @@
     "docs/Local_Scope_Within_Main/Pointer-and-Reference-Notation.md",
     "docs/Local_Scope_Within_Main/Scope.md",
     "docs/Local_Scope_Within_Main/Naming-Conventions-Variables.md",
-    "docs/Local_Scope_Within_Main/Initialization.md",
     "docs/Local_Scope_Within_Main/index.md",
-    "docs/Local_Scope_Within_Main/Casting.md",
     "docs/Local_Scope_Within_Main",
     "docs/Global_Scope",
     "docs/Function_Scope/Naming-Conventions-Function-Parameters.md",
-    "docs/Function_Scope/Function-Parameters-Layout.md",
-    "docs/Function_Scope/index.md",
     "docs/Function_Scope",
     "docs/Complex_Type_Scope/index.md",
     "docs/Complex_Type_Scope",
